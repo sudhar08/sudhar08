@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhar08&label=Profile%20views&color=0e75b6&style=flat" alt="sudhar08" /> </p>
 
-- 🔭 I’m currently studying on **SIMATS UNVERSITY**
+- 🔭 I’m currently studying in **SIMATS UNVERSITY**
 
 - 🌱 I’m currently learning **DSA,Devops**
 
