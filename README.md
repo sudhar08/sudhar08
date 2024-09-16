@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhar08&label=Profile%20views&color=0e75b6&style=flat" alt="sudhar08" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhar08" alt="sudhar08" /></a> </p>
+
 - 🔭 I’m currently studying on **SIMATS UNVERSITY**
 
 - 🌱 I’m currently learning **DSA,Devops**
@@ -10,6 +12,10 @@
 - 💬 Ask me about **Flutter, SwiftUi,Java, Spring boot**
 
 - 📫 How to reach me **sudharsanan080@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
